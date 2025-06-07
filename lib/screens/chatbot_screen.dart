@@ -62,8 +62,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     _addMessage(userMessage);
 
     // Replace with your ngrok URL
-    String url =
-        'https://f845-34-124-221-70.ngrok-free.app/chat'; // Update with your ngrok URL
+    String url = 'place your ngrok url here'; // Update with your ngrok URL
 
     try {
       // Prepare the conversation history and the new user message
